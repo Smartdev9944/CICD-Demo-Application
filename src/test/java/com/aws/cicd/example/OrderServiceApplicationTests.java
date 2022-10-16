@@ -1,4 +1,4 @@
-package com.javatechie.aws.cicd.example;
+package com.aws.cicd.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
